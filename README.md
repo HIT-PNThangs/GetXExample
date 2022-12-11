@@ -1,5 +1,7 @@
 # GetX Example
 
+<img src="images/untitled.gif" alt="Output" width="200"/>
+
 ## Slimy Card 
 ``` assets/flare/ ```
 ```dart
